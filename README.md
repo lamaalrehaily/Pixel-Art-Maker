@@ -1,4 +1,7 @@
-Build
+A single-page web app that allows users to draw pixel art on a customizable canvas!
+
+
+How it was built:
 
 -This game is built using HTML, CSS and JavaScript.
 
@@ -6,7 +9,7 @@ Build
 
 -It needs internet connection to gather required files and run properly.
 
-Instructions
+How to start the project:
 
 -Run the index.html file to start the project in a browser.
 
